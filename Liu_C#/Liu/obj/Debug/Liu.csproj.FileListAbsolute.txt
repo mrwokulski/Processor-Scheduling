@@ -1,0 +1,10 @@
+C:\Users\Wiktor\Documents\GitHub\AlgorytmLiu\Liu\bin\Debug\Liu.exe
+C:\Users\Wiktor\Documents\GitHub\AlgorytmLiu\Liu\bin\Debug\Liu.pdb
+C:\Users\Wiktor\Documents\GitHub\AlgorytmLiu\Liu\obj\Debug\Liu.csprojAssemblyReference.cache
+C:\Users\Wiktor\Documents\GitHub\AlgorytmLiu\Liu\obj\Debug\Liu.AddTask.resources
+C:\Users\Wiktor\Documents\GitHub\AlgorytmLiu\Liu\obj\Debug\Liu.Form1.resources
+C:\Users\Wiktor\Documents\GitHub\AlgorytmLiu\Liu\obj\Debug\Liu.Properties.Resources.resources
+C:\Users\Wiktor\Documents\GitHub\AlgorytmLiu\Liu\obj\Debug\Liu.csproj.GenerateResource.cache
+C:\Users\Wiktor\Documents\GitHub\AlgorytmLiu\Liu\obj\Debug\Liu.csproj.CoreCompileInputs.cache
+C:\Users\Wiktor\Documents\GitHub\AlgorytmLiu\Liu\obj\Debug\Liu.exe
+C:\Users\Wiktor\Documents\GitHub\AlgorytmLiu\Liu\obj\Debug\Liu.pdb
